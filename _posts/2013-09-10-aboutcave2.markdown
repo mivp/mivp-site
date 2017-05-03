@@ -1,0 +1,83 @@
+---
+layout: post
+title: CAVE2
+joomla_id: 3
+joomla_url: aboutcave2
+date: 2013-09-10 02:14:19.000000000 +10:00
+author: David Barnes
+excerpt: !binary |-
+  PHA+VGhlIE1vbmFzaCBJbW1lcnNpdmUgVmlzdWFsaXNhdGlvbiBQbGF0Zm9y
+  bSdzIG1ham9yIGZhY2lsaXR5IGlzIHRoZSA8c3Ryb25nPk1vbmFzaCBDQVZF
+  Mjwvc3Ryb25nPjxzdXA+VE08L3N1cD4uPC9wPg0KPHA+VGhlIE1vbmFzaCBD
+  QVZFMiBwcm92aWRlcyBhIHdvcmxkLWxlYWRpbmcgY2FwYWJpbGl0eSBmb3Ig
+  dGhlIGRpc3BsYXkgYW5kIGludGVyYWN0aXZlIGV4cGxvcmF0aW9uIG9mIHJp
+  Y2ggYW5kIGxhcmdlIHNjaWVudGlmaWMgYW5kIGVuZ2luZWVyaW5nIGRhdGFz
+  ZXRzLiBJdCBpcyBuZWVkZWQgYnkgcmVzZWFyY2ggc2NpZW50aXN0cyBhbmQg
+  ZW5naW5lZXJzIHRvIHZpc3VhbGlzZSwgbWFuaXB1bGF0ZSBhbmQgY29tcHJl
+  aGVuZCBkYXRhIHN1Y2ggYXMgZW5naW5lZXJpbmcgbW9kZWxzLCBtdWx0aS1k
+  aW1lbnNpb25hbCBpbWFnZXMgYWNyb3NzIHRoZSBzaXplIHNjYWxlIGZyb20g
+  bmFub3Njb3BpYyB0byBjb3NtaWMsIGFuZCB0aGUgb3V0cHV0cyBvZiBzY2ll
+  bnRpZmljLCBjb21wdXRhdGlvbmFsIGFuZCBlbmdpbmVlcmluZyBzaW11bGF0
+  aW9ucyBhY3Jvc3MgdGhlIHBoeXNpY2FsIGFuZCBsaWZlIHNjaWVuY2VzLjwv
+  cD4NCjxwPlRoZSBNb25hc2ggQ0FWRTIgYWxzbyBwcm92aWRlcyBhIGNvbXBl
+  bGxpbmcgdmlzdWFsIGFuZCBhdXJhbCBlbnZpcm9ubWVudCBmb3IgZXhwbG9y
+  aW5nIHRoZSBpbnRlZ3JhdGlvbiBvZiBhcnQgYW5kIHNjaWVuY2UsIGZvciBl
+  eGFtcGxlIHJlbmRlcmluZyBhbmQgaW50ZXJhY3Rpbmcgd2l0aCBnZW5lcmF0
+  aXZlIHN5c3RlbXMsIG11bHRpLWRpbWVuc2lvbmFsIGZyYWN0YWxzLCBzeW50
+  aGV0aWMgbGFuZHNhcGVzIGFuZCBtb3JlLjwvcD4NCjxwIHN0eWxlPSJwYWRk
+  aW5nLWxlZnQ6IDMwcHg7Ij48YSBjbGFzcz0iYnRuIiBzdHlsZT0iY29sb3I6
+  ICNmMDQwMjA7IiBocmVmPSJpbWFnZXMvcGRmcy8xNFAtMDM2NS1DQVZFLWZp
+  bmFsLTE1MC5wZGYiIHRhcmdldD0iX2JsYW5rIj5Eb3dubG9hZCB0aGUgQ0FW
+  RTIgQnJvY2h1cmUgKFBERikgaGVyZS48L2E+PC9wPg0KPHA+Q29yZSBzcGVj
+  aWZpY2F0aW9uczo8L3A+DQo8cD48c3Ryb25nPkRpc3BsYXkgJmFtcDsgYXVk
+  aW88L3N0cm9uZz48L3A+DQo8cCBzdHlsZT0icGFkZGluZy1sZWZ0OiAzMHB4
+  OyI+MjAgY29sdW1ucyBieSA0IHJvd3Mgb2YgUGxhbmFyIE1hdHJpeCBMWDQ2
+  TCAzRCBMQ0QgcGFuZWxzLCBlYWNoIG9mIDEzNjYgeCA3NjggcmVzb2x1dGlv
+  biBhbmQgNDYiIGRpYWdvbmFsPC9wPg0KPHAgc3R5bGU9InBhZGRpbmctbGVm
+  dDogMzBweDsiPkN1cnZlZCBkaXNwbGF5LCByYWRpdXMgb2YgY3VydmF0dXJl
+  IGFwcHJveC4gMy43bSwgZGlzcGxheSBmaWVsZCAzMzA8c3VwPm88L3N1cD4u
+  PC9wPg0KPHAgc3R5bGU9InBhZGRpbmctbGVmdDogMzBweDsiPlN0ZXJlb3Nj
+  b3BpYyBtb2RlOiBtaWNyby1wb2xhcml6aW5nIGZpbHRlciBjb3VwbGVkIHdp
+  dGggbGlnaHR3ZWlnaHQgcGFzc2l2ZSBnbGFzc2VzPC9wPg0KPHAgc3R5bGU9
+  InBhZGRpbmctbGVmdDogMzBweDsiPjIyLjIgY2hhbm5lbCAzRCBzdXJyb3Vu
+  ZCBzb3VuZCBzeXN0ZW08L3A+DQo8cCBzdHlsZT0icGFkZGluZy1sZWZ0OiAz
+  MHB4OyI+VEhYLWNlcnRpZmllZCA3LjIgY2hhbm5lbCByZWNlaXZlcjwvcD4N
+  CjxwPjxzdHJvbmc+SW50ZXJhY3Rpb248L3N0cm9uZz48L3A+DQo8cCBzdHls
+  ZT0icGFkZGluZy1sZWZ0OiAzMHB4OyI+MTQtY2FtZXJhIDYgZGVncmVlcy1v
+  Zi1mcmVlZG9tIHRyYWNraW5nIHN5c3RlbSAoaGVhZCB0cmFja2luZyk8L3A+
+  DQo8cCBzdHlsZT0icGFkZGluZy1sZWZ0OiAzMHB4OyI+VHJhY2tlZCBBcGV4
+  IGNvbnRyb2xsZXI8L3A+DQo8cCBzdHlsZT0icGFkZGluZy1sZWZ0OiAzMHB4
+  OyI+T2ZmLXRoZS1zaGVsZiBibHVldG9vdGggb3JpZW50YXRpb24tYXdhcmUg
+  Y29udHJvbGxlcnM8L3A+DQo8cCBzdHlsZT0icGFkZGluZy1sZWZ0OiAzMHB4
+  OyI+V2ViLWJhc2VkIENBVkUyIG9wZXJhdGlvbiBjb25zb2xlPC9wPg0KPHA+
+  PHN0cm9uZz5JbWFnZSBnZW5lcmF0b3IgY2x1c3Rlcjwvc3Ryb25nPjwvcD4N
+  CjxwIHN0eWxlPSJwYWRkaW5nLWxlZnQ6IDMwcHg7Ij4yMC1ub2RlIGNsdXN0
+  ZXIsIGVhY2ggbm9kZSBkdWFsIDgtY29yZSBDUFVzLCAxOTJHQiBSQU0sIGFu
+  ZCBkdWFsIDE1MzYtY29yZSBLNTAwMCBncmFwaGljcyBjYXJkczwvcD4NCjxw
+  IHN0eWxlPSJwYWRkaW5nLWxlZnQ6IDMwcHg7Ij4xMEdiIG5ldHdvcmsgZmFi
+  cmljPC9wPg0KPHAgc3R5bGU9InBhZGRpbmctbGVmdDogMzBweDsiPkxvY2Fs
+  IGZhc3Qgc3RvcmFnZSBzZXJ2ZXI8L3A+DQo8cCBzdHlsZT0icGFkZGluZy1s
+  ZWZ0OiAzMHB4OyI+wqA8L3A+
+category: Facilities
+---
+<p>The Monash Immersive Visualisation Platform's major facility is the <strong>Monash CAVE2</strong><sup>TM</sup>.</p>
+<p>The Monash CAVE2 provides a world-leading capability for the display and interactive exploration of rich and large scientific and engineering datasets. It is needed by research scientists and engineers to visualise, manipulate and comprehend data such as engineering models, multi-dimensional images across the size scale from nanoscopic to cosmic, and the outputs of scientific, computational and engineering simulations across the physical and life sciences.</p>
+<p>The Monash CAVE2 also provides a compelling visual and aural environment for exploring the integration of art and science, for example rendering and interacting with generative systems, multi-dimensional fractals, synthetic landsapes and more.</p>
+<p style="padding-left: 30px;"><a class="btn" style="color: #f04020;" href="images/pdfs/14P-0365-CAVE-final-150.pdf" target="_blank">Download the CAVE2 Brochure (PDF) here.</a></p>
+<p>Core specifications:</p>
+<p><strong>Display &amp; audio</strong></p>
+<p style="padding-left: 30px;">20 columns by 4 rows of Planar Matrix LX46L 3D LCD panels, each of 1366 x 768 resolution and 46" diagonal</p>
+<p style="padding-left: 30px;">Curved display, radius of curvature approx. 3.7m, display field 330<sup>o</sup>.</p>
+<p style="padding-left: 30px;">Stereoscopic mode: micro-polarizing filter coupled with lightweight passive glasses</p>
+<p style="padding-left: 30px;">22.2 channel 3D surround sound system</p>
+<p style="padding-left: 30px;">THX-certified 7.2 channel receiver</p>
+<p><strong>Interaction</strong></p>
+<p style="padding-left: 30px;">14-camera 6 degrees-of-freedom tracking system (head tracking)</p>
+<p style="padding-left: 30px;">Tracked Apex controller</p>
+<p style="padding-left: 30px;">Off-the-shelf bluetooth orientation-aware controllers</p>
+<p style="padding-left: 30px;">Web-based CAVE2 operation console</p>
+<p><strong>Image generator cluster</strong></p>
+<p style="padding-left: 30px;">20-node cluster, each node dual 8-core CPUs, 192GB RAM, and dual 1536-core K5000 graphics cards</p>
+<p style="padding-left: 30px;">10Gb network fabric</p>
+<p style="padding-left: 30px;">Local fast storage server</p>
+<p style="padding-left: 30px;"> </p>

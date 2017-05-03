@@ -1,0 +1,11 @@
+---
+layout: post
+title: Purpose
+joomla_id: 11
+joomla_url: purpose
+date: 2013-09-10 05:10:03.000000000 +10:00
+author: David Barnes
+excerpt: <p>...</p>
+category: Visualisation
+---
+<p>...</p>

@@ -1,0 +1,94 @@
+---
+layout: post
+title: IMAGE-HD in the Monash CAVE2
+joomla_id: 57
+joomla_url: image-hd
+date: 2016-02-18 01:58:23.000000000 +11:00
+author: David Barnes
+excerpt: !binary |-
+  PHA+PHNwYW4gbGFuZz0iRU4tVVMiPk5ldXJvaW1hZ2luZyBpcyBhIGtleSB0
+  b29sIGluIHVuZGVyc3RhbmRpbmcgdGhlIGJyYWluLCBhbmQgdGhlIHBhdGhv
+  bG9naWNhbCBjaGFuZ2VzIHRoYXQgcHJlZW1wdCBhbmQvb3IgYWNjb21wYW55
+  IHRoZSBvbnNldCBvZiBzeW1wdG9tcyBpbiBhIG5ldXJvZGVnZW5lcmF0aXZl
+  IGlsbG5lc3Mgc3VjaCBhcyBIdW50aW5ndG9u4oCZcyBEaXNlYXNlIChIRCku
+  IFR5cGljYWxseSwgPHNwYW4gc3R5bGU9InRleHQtZGVjb3JhdGlvbjogdW5k
+  ZXJsaW5lOyI+Z3JvdXAgYXZlcmFnZXM8L3NwYW4+IGFyZSBjYWxjdWxhdGVk
+  IGZvciBjb2hvcnRzIChlLmcuIGNvbnRyb2wsIHN5bXB0b21hdGljKSBhbmQg
+  PHNwYW4gc3R5bGU9InRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyI+c3Rh
+  dGlzdGljYWxseSBzaWduaWZpY2FudCBkaWZmZXJlbmNlczwvc3Bhbj4gYXJl
+  IHNvdWdodCBpbiwgZm9yIGV4YW1wbGUsIHRoZSBkZW5zaXR5IG9mIG5ldXJv
+  bmFsIGNvbm5lY3Rpb25zIGJldHdlZW4gc2VsZWN0ZWQgcmVnaW9ucyBvZiB0
+  aGUgYnJhaW4uIEhvd2V2ZXIsIHRoaXMgYXBwcm9hY2gsIGJ5IG5hdHVyZSBv
+  ZiB0aGUgbmVlZCB0byBjb21wYXJlIG1hbnkgdGVucyBvciBodW5kcmVkcyBv
+  ZiBsYXJnZSBpbWFnZXMsIGlzIGdlbmVyYWxseSByZXN0cmljdGVkIHRvIHNp
+  bXBsZSBzY2FsYXIgbWVhc3VyZW1lbnRzLCBhbmQgZXNjaGV3cyBtb3JlIHNv
+  cGhpc3RpY2F0ZWQgYXR0cmlidXRlcyBvZiB0aGUgZGF0YSwgc3VjaCBhcyBz
+  aGFwZSBvciBkaXJlY3Rpb25hbCBwcm9wZXJ0aWVzLiBHaXZlbiBhY2Nlc3Mg
+  dG8gdGhlIHdvcmxkLWxlYWRpbmcgaW1hZ2UgZGF0YWJhc2UgY29sbGVjdGVk
+  IGJ5IHRoZSBNb25hc2gg4oCcSW1hZ2UgSHVudGluZ3RvbuKAmXMgRGlzZWFz
+  ZeKAnSAoSU1BR0UtSEQpIHRlYW0sIHdlIHNldCBvdXJzZWx2ZXMgdGhlIGNo
+  YWxsZW5nZSB0byBkZXNpZ24gYSBuZXcgbWV0aG9kIHRoYXQgd291bGQgYWxs
+  b3cgcmVzZWFyY2hlcnMgdG8gcmV0dXJuIHRvIHRoZSByb290cyBvZiBzY2ll
+  bnRpZmljIGRpc2NvdmVyeSBhbmQgYWN0dWFsbHkgPHNwYW4gc3R5bGU9InRl
+  eHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyI+bG9vayBhdCBhbGwgdGhlaXIg
+  ZGF0YSBhdCBvbmNlIHdpdGggdGhlaXIgb3duIGV5ZXM8L3NwYW4+IGFuZCBh
+  cHBseSB0aGUgdW5yaXZhbGxlZCBodW1hbiBicmFpbiB0byBmaW5kIGhpdGhl
+  cnRvIHVua25vd24gcGF0dGVybnMgaW4gdGhlaXIgZGF0YS48L3NwYW4+PC9w
+  Pg0KPHA+QSBjb21wbGV0ZSBzaW5nbGUgZnJhbWUgZnJvbSB0aGUgaW50ZXJh
+  Y3RpdmUgdmlzdWFsaXNhdGlvbiB0b29sIGRldmVsb3BlZCBpbiB0aGUgTW9u
+  YXNoIENBVkUyIGZvciB0aGUgSU1BR0UtSEQgdGVhbSwgaXMgc2hvd24gYmVs
+  b3cuIDMtZCB3aGl0ZSBtYXR0ZXIgcGF0aHdheXMgZm9yIDgwIGRpZmZlcmVu
+  dCBicmFpbnMgZnJvbSB0aGUgc3R1ZHkgYXJlIHNob3duIHdpdGggdGhlIHNh
+  bWUgZGlzcGxheSBwYXJhbWV0ZXJzLiBab29tIGFuZCBwYW4gYXJvdW5kIHRo
+  ZSBpbWFnZSB1c2luZyB0aGUgbW91c2UgYW5kIG1vdXNlIHdoZWVsIHRvIGV4
+  YW1pbmUgdGhlIGRhdGEgc2hvd24gaW4gdGhlIENBVkUyIGFuZCBnYWluIGFu
+  IGFwcHJlY2lhdGlvbiBmb3I6PC9wPg0KPHVsPg0KPGxpPnRoZSBjYXBhY2l0
+  eSBvZiB0aGUgQ0FWRTIgdG8gbG9hZCB0ZW5zIG9yIGh1bmRyZWRzIG9mIGxh
+  cmdlIHZvbHVtZSBpbWFnZXMgYW5kIG1hbmlwdWxhdGUgdGhlbSB0b2dldGhl
+  cjs8L2xpPg0KPGxpPnRoZSBub3JtYWwgdmFyaWF0aW9uIGluIGJyYWluIHN0
+  cnVjdHVyZSBhY3Jvc3MgdGhlIHBvcHVsYXRpb247IGFuZDwvbGk+DQo8bGk+
+  dGhlIHVsdHJhc2NhbGUgcmVzb2x1dGlvbiBvZiB0aGUgQ0FWRTIuPC9saT4N
+  CjwvdWw+DQo8cD48aWZyYW1lIHNyYz0iaHR0cHM6Ly9taXZwLWR3czEuZXJj
+  Lm1vbmFzaC5lZHUvcGFuL29zZC9pbWFnZWhkLTIweDQuaHRtbCIgd2lkdGg9
+  IjgwMCIgaGVpZ2h0PSI1MzMiPg0KPHA+DQogICAgPGEgaHJlZj0iaHR0cHM6
+  Ly9taXZwLWR3czEuZXJjLm1vbmFzaC5lZHUvcGFuL29zZC9pbWFnZWhkLTIw
+  eDQuaHRtbCI+DQogICAgICBGYWxsYmFjayBsaW5rIGZvciBicm93c2VycyB0
+  aGF0LCB1bmxpa2VseSwgZG9uJ3Qgc3VwcG9ydCBmcmFtZXMNCiAgICA8L2E+
+  DQogIDwvcD4NCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQo8L2lmcmFtZT48L3A+
+  DQo8cD5DSSAoUmVkZXNpZ25pbmcga25vd2xlZGdlIGRpc2NvdmVyeSk6IERh
+  dmlkIEcgQmFybmVzPC9wPg0KPHA+Q0kgKElNQUdFLUhEKTogTmVsbGllIEdl
+  b3JnaW91LUthcmlzaXRpYW5pczwvcD4NCjxwPjxzdHJvbmc+RW5xdWlyaWVz
+  PC9zdHJvbmc+OiA8YSBocmVmPSJodHRwOi8vbW9uYXNoLmVkdS9taXZwL2lu
+  ZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmYW1wO3ZpZXc9YXJ0aWNsZSZh
+  bXA7aWQ9NSZhbXA7SXRlbWlkPTEwNSI+RHIgRGF2aWQgRyBCYXJuZXM8L2E+
+  PC9wPg==
+category: Examples
+---
+<p><span lang="EN-US">Neuroimaging is a key tool in understanding the brain, and the pathological changes that preempt and/or accompany the onset of symptoms in a neurodegenerative illness such as Huntington’s Disease (HD). Typically, <span style="text-decoration: underline;">group averages</span> are calculated for cohorts (e.g. control, symptomatic) and <span style="text-decoration: underline;">statistically significant differences</span> are sought in, for example, the density of neuronal connections between selected regions of the brain. However, this approach, by nature of the need to compare many tens or hundreds of large images, is generally restricted to simple scalar measurements, and eschews more sophisticated attributes of the data, such as shape or directional properties. Given access to the world-leading image database collected by the Monash “Image Huntington’s Disease” (IMAGE-HD) team, we set ourselves the challenge to design a new method that would allow researchers to return to the roots of scientific discovery and actually <span style="text-decoration: underline;">look at all their data at once with their own eyes</span> and apply the unrivalled human brain to find hitherto unknown patterns in their data.</span></p>
+<p>A complete single frame from the interactive visualisation tool developed in the Monash CAVE2 for the IMAGE-HD team, is shown below. 3-d white matter pathways for 80 different brains from the study are shown with the same display parameters. Zoom and pan around the image using the mouse and mouse wheel to examine the data shown in the CAVE2 and gain an appreciation for:</p>
+<ul>
+<li>the capacity of the CAVE2 to load tens or hundreds of large volume images and manipulate them together;</li>
+<li>the normal variation in brain structure across the population; and</li>
+<li>the ultrascale resolution of the CAVE2.</li>
+</ul>
+<p><iframe src="https://mivp-dws1.erc.monash.edu/pan/osd/imagehd-20x4.html" width="800" height="533">
+<p>
+    <a href="https://mivp-dws1.erc.monash.edu/pan/osd/imagehd-20x4.html">
+      Fallback link for browsers that, unlikely, don't support frames
+    </a>
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+</iframe></p>
+<p>CI (Redesigning knowledge discovery): David G Barnes</p>
+<p>CI (IMAGE-HD): Nellie Georgiou-Karisitianis</p>
+<p><strong>Enquiries</strong>: <a href="http://monash.edu/mivp/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=105">Dr David G Barnes</a></p>

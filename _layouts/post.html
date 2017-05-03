@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="col-xs-12" style="height:20px;"></div>
+
+<div class="container">
+
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <div class="post-content" itemprop="articleBody">
+      <div class="row flex-md-row-reverse">
+        <div class="col-md-3">
+          {% include new.html %}
+        </div>
+        <div class="col-md-9">
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+            <p class="post-meta">
+              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                {{ page.date | date: date_format }}
+              </time>
+              {% if page.author %}
+                • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+              {% endif %}</p>
+          </header>
+
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+
+  </article>
+
+</div>
+<div class="col-xs-12" style="height:10px;"></div>

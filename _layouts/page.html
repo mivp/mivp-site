@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="col-xs-12" style="height:20px;"></div>
+  <div class="row flex-md-row-reverse">
+    <div class="col-md-3">
+      {% include new.html %}
+    </div>
+    <div class="col-md-9">
+      <h1>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</h1>
+      {{ content }}
+    </div>
+  </div>
+</div>

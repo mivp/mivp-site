@@ -1,0 +1,19 @@
+---
+permalink: /presentations
+layout: page
+title: Talks and presentations
+---
+
+{% for post in site.posts %}
+
+{% if post.categories contains 'Talks and presentations' %}
+<div class="post-area">
+  <p><a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a></p>
+  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+  <p>
+    {{ post.content | strip_html | truncatewords: 50 }}
+  </p>
+</div>
+{% endif %}
+
+{% endfor %}
