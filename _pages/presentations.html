@@ -9,7 +9,7 @@ title: Talks and presentations
 {% if post.categories contains 'Talks and presentations' %}
 <div class="post-area">
   <h2><a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a></h2>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+  <p class="post-meta">{{ post.date | date_to_long_string }}</p>
   <p>
     {{ post.content | strip_html | truncatewords: 50 }}
   </p>
